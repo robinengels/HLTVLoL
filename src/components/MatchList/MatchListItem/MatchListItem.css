@@ -1,0 +1,25 @@
+.teamName{
+    font-size: small;
+}
+
+.listItem{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3px;
+}
+
+.teamInfo{
+    display: flex;
+    flex-direction: row;
+    margin-right: 50px;
+}
+
+.listHeader{
+    border: 1px solid black;
+}
+
+#matchList{
+    display: flex;
+    flex-direction: column;
+}

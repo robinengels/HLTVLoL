@@ -1,0 +1,12 @@
+.PlayerPicture{
+    width: 100px;
+}
+
+.flag{
+    height: 35px;
+}
+
+#PlayerContainer{
+    max-width: none;
+    width: max-content;
+}
